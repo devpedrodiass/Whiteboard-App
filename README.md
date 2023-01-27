@@ -1,4 +1,4 @@
-# Whiteboard App
+# 📝 Whiteboard App
 It is a Whiteboard App, a Figjam clone, to see how `ReactFlow` works. It is not completed but you can try anyway.
 
 [👉 Click here to try it! 👈](https://whiteboard-app-six.vercel.app)
