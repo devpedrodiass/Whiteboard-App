@@ -7,6 +7,7 @@ It is a Whiteboard App, a Figjam clone, to see how `ReactFlow` works. It is not 
 - `React` + `Vite`
 	- `Typescript`
 - `ReactFlow`
+- `TailwindCSS`
 
 ## 👋 Actions
 - Create, Read, Resize and Link Squares
