@@ -27,4 +27,4 @@ It is a Whiteboard App, a Figjam clone, to see how `ReactFlow` works. It is not 
 ### New One
 ![image](https://user-images.githubusercontent.com/62482908/214980200-5569c521-cc36-4afc-96d9-3b116a6f4bb7.png)
 
-[👉 Visit my linkedin! 👈](https://whiteboard-app-six.vercel.app)
+[👉 Visit my linkedin! 👈](https://www.linkedin.com/in/pedr0d1as/)
